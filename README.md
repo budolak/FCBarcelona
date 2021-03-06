@@ -1,2 +1,4 @@
-# FCBarcelona
-This was my semester project, and was very appreciated by the professor. its a football club related website made for fun
+# FCB
+This website is related to football club barcelona.
+i have used html and css mainly and have put a video on the mian home page.
+i created this website for my semester project.
